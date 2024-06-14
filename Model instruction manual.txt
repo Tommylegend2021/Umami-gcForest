@@ -1,0 +1,12 @@
+Welcome to use Umami-gcForest Umami peptide prediction model.
+Please enter the file name extension ".txt "or".fasta ", the file name contains only English letters or numbers. 
+The file should contain fasta format protein sequences that are less than 20 in length and do not contain unconventional amino acids. 
+Each file should contain no more than 50 sequences.
+Click "Upload" to start running.
+The following is an example of the file content:
+>1
+DA
+>2
+KGDEESLA
+>3
+LGG
